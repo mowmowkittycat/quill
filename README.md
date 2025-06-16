@@ -1,9 +1,19 @@
-<p align="center">
-  <p align="center">
-	<img width="150" height="150" src="https://raw.githubusercontent.com/featherfall-org/quill/main/images/logo.png" alt="Logo">
-  </p>
-  <h1 align="center"><b>Quill</b></h1>
-  <p align="center">
-    Work In Progress
-  </p>
-</p>
+<h1 align="center">
+	<a href="https://featherfall.gitbook.io/quill">
+		<img src="images/logo.png" alt="Reflex" width="200" />
+	</a>
+	<br />
+	<b>Quill</b>
+</h1>
+
+---
+
+&nbsp;
+
+## 🪶 Quill
+
+**Quill** is a book-inspired Roblox game framework inspired by [Sapphire](https://github.com/Mark-Marks/sapphire), designed to simplify your workflow's setup.
+
+You can use Quill for Chapters (services/controllers) and Characters (components). Eventually, you will be able to use Quill to handle networking, data saving, and will be able to add your own extensions.
+
+&nbsp;
