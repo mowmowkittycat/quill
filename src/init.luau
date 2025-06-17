@@ -10,11 +10,11 @@ export type chapter = {
 }
 
 export type character = {
-	tag: string,
-	priority: number,
-	init: (self: character, instance: Instance) -> (),
-	start: (self: character) -> (),
-	destroy: (self: character) -> (),
+	tag: string?,
+	priority: number?,
+	init: (self: character, instance: Instance) -> ()?,
+	start: (self: character) -> ()?,
+	destroy: (self: character) -> ()?,
 	instance: Instance?,
 	[string]: any,
 }
