@@ -26,7 +26,17 @@ You can use Quill for Chapters (services/controllers) and Characters (components
 
 ## 📦 Installation
 
-Quill is not yet available on Wally nor Pesde. For now, copy the code from src.
+This package is available for [Wally](https://wally.run/package/featherfall-org/quill) and Pesde.
+
+```toml
+# wally.toml
+[dependencies]
+quill = "featherfall-org/quill@0.1.0-alpha"
+
+#pesde.toml
+[dependencies]
+quill = { wally = "featherfall-org/quill", version = "0.1.0-alpha" }
+```
 
 &nbsp;
 
