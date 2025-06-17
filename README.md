@@ -33,7 +33,7 @@ This package is available for [Wally](https://wally.run/package/featherfall-org/
 [dependencies]
 quill = "featherfall-org/quill@0.1.0-alpha"
 
-#pesde.toml
+# pesde.toml
 [dependencies]
 quill = { wally = "featherfall-org/quill", version = "0.1.0-alpha" }
 ```
